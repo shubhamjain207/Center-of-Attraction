@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\hp\source\repos\Magnet1\Magnet1\Source.cpp(19,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\hp\source\repos\Magnet1\Magnet1\Source.cpp(20,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Magnet1.vcxproj -> C:\Users\hp\source\repos\Magnet1\x64\Debug\Magnet1.exe
